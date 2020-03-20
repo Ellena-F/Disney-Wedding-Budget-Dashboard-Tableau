@@ -1,6 +1,5 @@
 # Disney-Wedding-Budget-Dashboard-Tableau
-This interactive dashboard tracks expenses and different option available in Disney Wedding.
-This interactive dashboard shows the different area of expenses and options available in Disney Wedding planning. 
+This interactive dashboard tracks expenses and different option available in Disney Fairytale Weddings.
 
 ![screenshot](/wedding_dashboard.png?raw=true "Optional Title")
 
