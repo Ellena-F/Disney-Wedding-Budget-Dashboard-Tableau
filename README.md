@@ -9,11 +9,12 @@ This interactive dashboard shows the different area of expenses and options avai
 
 It includes:
 - Wedding date count down (days, months and year) with user's input date.
-- Transportation options with price and duration to hire.
-- Expenses breakdown for floral, decor and photography.
+- Transportation options with price and duration to hire (hover to show).
+- Expenses breakdown for floral, decor and photography (hover for detail price).
 - Food and berverage service options that is interative with user's input of guests numbers.
-- Budget progress bar tracking current budget with users input on guest number (Budget is set as $30000).
-- Number of venue in different park.
-- Total expenses with user's input choice of food service and number of guests. 
+- Budget progress bar that tracks current expenses with budget of $30,000 (automatically update with different user's input).
+- Number of venues in different park.
+- Pie chart that shows total expenses with detail breakdown.
+- Users input: number of guest and type of food and beverage service of choice.
 
 Information from: https://www.disneyweddings.com/florida/
