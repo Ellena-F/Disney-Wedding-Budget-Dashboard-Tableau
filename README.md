@@ -10,7 +10,7 @@ It includes:
 - Wedding date count down (days, months and year) with user's input date.
 - Transportation options with price and duration to hire (hover to show).
 - Expenses breakdown for floral, decor and photography (hover for detail price).
-- Food and berverage service options that is interative with user's input of guests numbers.
+- Food and beverage service options that is interactive with user's input of guests numbers.
 - Budget progress bar that tracks current expenses with budget of $30,000 (automatically update with different user's input).
 - Number of venues in different park.
 - Pie chart that shows total expenses with detail breakdown.
